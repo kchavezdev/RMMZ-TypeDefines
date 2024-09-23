@@ -10,8 +10,8 @@ These terms are based on a translated version of the License section of the RPGM
 The original terms take precedence over these if there are any conflicts.
 
 These are to be treated as modified materials for the core script of RPG Maker MZ.
-In layman's terms, you are not authorized to use these materials unless you have legally purchased a license for RPG Maker MZ.
-For the full terms of service, please visit https://rpgmakerofficial.com/en/support/rule/ (Japanese) or https://rpgmakerofficial.com/en/support/rule/ (English)
+In layman's terms, you are not authorized to distribute these materials unless you have legally purchased a license for RPG Maker MZ.
+For the full terms of service, please visit https://rpgmakerofficial.com/en/support/rule/ (Japanese) or https://rpgmakerofficial.com/en/support/rule/ (English).
 
 Additionally, any projects distributing these definitions must declare they are from RPGMaker_TypeDefine and include the URL of the repo.
 
